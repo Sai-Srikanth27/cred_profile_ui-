@@ -33,5 +33,5 @@ To run this project, you need the following installed on your system:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Sai-Srikanth27/profile_app.git
-   cd profile_app
+   git clone https://github.com/Sai-Srikanth27/cred_profile_ui-
+   cd cred_profile_ui-
