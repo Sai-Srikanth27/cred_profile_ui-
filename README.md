@@ -1,37 +1,16 @@
-# Profile App
+# cred_profile_ui
 
-A Flutter-based mobile application that displays a user profile screen with dynamic data, similar to a rewards and credit score tracking app. This app features a dark-themed UI with sections for user details, credit score, cashback, coins, and more.
+A new Flutter project.
 
-## Features
+## Getting Started
 
-- Displays user profile information (name, member since date, etc.).
-- Shows dynamic data such as credit score, lifetime cashback, and coins.
-- Includes sections for rewards, benefits, and transactions.
-- Dark-themed UI inspired by modern financial apps.
-- Built with Flutter for cross-platform compatibility (Android & iOS).
+This project is a starting point for a Flutter application.
 
-## Screenshots
+A few resources to get you started if this is your first Flutter project:
 
-Below are some screenshots of the app in action:
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-![Profile Screen](1.png)
-*Screenshot of the Profile Screen showing user details, credit score, and rewards.*
-
-![Rewards Section](2.png)
-*Screenshot highlighting the Rewards & Benefits section with cashback and coins.*
-
-## Prerequisites
-
-To run this project, you need the following installed on your system:
-
-- [Flutter](https://flutter.dev/docs/get-started/install) (latest stable version)
-- [Dart](https://dart.dev/get-dart) (comes with Flutter)
-- An IDE like [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
-- An emulator or physical device for testing
-
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://Sai-Srikanth27/profile_app.git
-   cd profile_app
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
