@@ -14,10 +14,10 @@ A Flutter-based mobile application that displays a user profile screen with dyna
 
 Below are some screenshots of the app in action:
 
-![Profile Screen](profile_screen_1.png)
+![Profile Screen](1.png)
 *Screenshot of the Profile Screen showing user details, credit score, and rewards.*
 
-![Rewards Section](profile_screen_2.png)
+![Rewards Section](2.png)
 *Screenshot highlighting the Rewards & Benefits section with cashback and coins.*
 
 ## Prerequisites
